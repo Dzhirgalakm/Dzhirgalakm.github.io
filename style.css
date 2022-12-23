@@ -3,13 +3,13 @@
 body {
     user-select: none;
     background-color: black;
+    font-family: 'Jost', sans-serif;
  }
  
  .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 4px;
-    font-family: 'Jost', sans-serif;
     width: 350px;
     align-items: center;
  }
@@ -44,6 +44,7 @@ body {
     text-align: right;
     background-color: black;
     color: white;
+    font-family: 'Jost', sans-serif;
  }
  
  .input {
